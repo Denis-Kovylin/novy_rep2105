@@ -1,0 +1,9 @@
+assertpy==1.1
+colorama==0.4.6
+iniconfig==2.1.0
+packaging==24.2
+pillow==11.2.1
+pluggy==1.5.0
+pytest==8.3.5
+pytz==2025.2
+randominfo @ file:///C:/Users/HomeWork/Desktop/novy_rep2105
